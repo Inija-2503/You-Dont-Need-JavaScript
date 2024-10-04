@@ -911,6 +911,12 @@ Please be aware that the demos may exhibit significant accessibility issues, suc
 
 [<img src="images/rotateSquare" height="230" title="Demo 1">]
 
+## <a id="Bitcoin-Demo-Website"></a>Bitcoin-Demo-Website
+![Screenshot 2024-10-04 190736](https://github.com/user-attachments/assets/f55aa00a-1cd5-4c7f-9639-116f639d8178)
+![Screenshot 2024-10-04 190803](https://github.com/user-attachments/assets/3ed007c9-a1d9-498f-9fca-a530a10e6a0a)
+![Screenshot 2024-10-04 190837](https://github.com/user-attachments/assets/b2f8912b-ade2-4367-94e0-6af5bf6c614a)
+
+
 **[⬆ back to top](#quick-links)**
 ```
 =======
